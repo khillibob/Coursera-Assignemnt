@@ -2,10 +2,9 @@
 
 ##Assignment Details
 
-1. Setting the working directory
-2. Load the activity and features labels
-3. Extract mean and standard deviation using grep
-4. Read the train and test table
-5. Combine the test and train using rbind
-6. Build the final dataset using melt and dcast
-7. write the final dataset using write.table
+This is the assignment of coursera Getting and cleaning dataset . In this repository , we have 4 files 
+
+1. Readme
+2. Codebook
+3. R script 
+4. Output file
